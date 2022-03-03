@@ -25,7 +25,7 @@ Oaxaca Galerías,MX-69593
 | store | Dirección de la tienda (para poder registrarla en nuestro sistema)  |
 | store_id | Identificador único para cada tienda (no debe contener espacios) |
 
-[Ejemplo CSV de tiendas](../blob/main/stores.csv)
+[Ejemplo CSV de tiendas](https://raw.githubusercontent.com/LyticaMx/conversion-rate-requirements/main/stores.csv)
 
 ### 2. CSV de transacciones: Archivo CSV que contiene las transacciones de las tiendas.
 
@@ -39,7 +39,7 @@ MX-26793,660342013-9,2022-01-02T07:34:18Z,2004.71
 MX-49210,688738924-X,2022-02-02T10:06:49Z,1852.54
 ```
 
-[Ejemplo CSV de transacciones](../blob/main/transactions.csv)
+[Ejemplo CSV de transacciones](https://raw.githubusercontent.com/LyticaMx/conversion-rate-requirements/main/transactions.csv)
 
 | columna | descripción |
 | --- | --- |
